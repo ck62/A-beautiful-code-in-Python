@@ -1,4 +1,4 @@
-# A-beautiful-code-in-Python!!!
+# A-beautiful-code-in-Python
 Eine launige Einführung in Python
 
 Die Serie dient Anfängern zum Erlernen der Sprache. Anhand von Aufgaben werden Python-Befehle eingeführt und erläutert.
